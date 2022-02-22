@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="ru"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../../../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../../../jacoco-resources/report.gif" type="image/gif"/><title>TestMain.java</title><link rel="stylesheet" href="../../../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../../../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../../../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../../../index.html" class="el_report">StudentTest (1) (22.02.2022 18:04:53)</a> &gt; <a href="../../index.html" class="el_group">unit-online-tusur</a> &gt; <a href="../index.html" class="el_bundle">src/test/java</a> &gt; <a href="index.source.html" class="el_package">online_tusur.unit_online_tusur</a> &gt; <span class="el_source">TestMain.java</span></div><h1>TestMain.java</h1><pre class="source lang-java linenums">package online_tusur.unit_online_tusur;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
+import org.junit.jupiter.api.Test;
+
+<span class="nc" id="L9">public class TestMain {</span>
+<span class="nc" id="L10">	String fName1 = &quot;Ivan&quot;;</span>
+<span class="nc" id="L11">	String fName2 = &quot;Piter&quot;;</span>
+<span class="nc" id="L12">	String fName3 = &quot;Roman&quot;;</span>
+<span class="nc" id="L13">	String lName1 = &quot;Sidorov&quot;;</span>
+<span class="nc" id="L14">	String lName2 = &quot;Petrov&quot;;</span>
+<span class="nc" id="L15">	String lName3 = &quot;Romanov&quot;;</span>
+<span class="nc" id="L16">	int age1 = 33;</span>
+<span class="nc" id="L17">	int age2 = 55;</span>
+<span class="nc" id="L18">	int age3 = 17;</span>
+<span class="nc" id="L19">	Student s1 = new Student();</span>
+<span class="nc" id="L20">	Student s2 = new Student();</span>
+<span class="nc" id="L21">	Student s3 = new Student();</span>
+	@Test
+	void TestMain() {
+<span class="nc" id="L24">		s1.setAge(age1);</span>
+<span class="nc" id="L25">		s2.setAge(age2);</span>
+<span class="nc" id="L26">		s3.setAge(age3);</span>
+<span class="nc" id="L27">		String expectedFullName = lName1+&quot; &quot;+fName1;</span>
+<span class="nc" id="L28">		Student[] students = {s1,s2,s3};</span>
+<span class="nc" id="L29">		ByteArrayOutputStream output = new ByteArrayOutputStream();</span>
+<span class="nc" id="L30">		PrintStream old = System.out;</span>
+<span class="nc" id="L31">		System.setOut(new PrintStream(output));</span>
+<span class="nc" id="L32">		Main.main(new String[] {});</span>
+<span class="nc" id="L33">		assertEquals(expectedFullName+&quot;\r\n&quot;+&quot;MAX=&quot;+Student.maxAge(students)+&quot;\r\n&quot;, output.toString());</span>
+<span class="nc" id="L34">		System.setOut(old);</span>
+<span class="nc" id="L35">	}</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span>StudentTest (1) (22.02.2022 18:04:53)</div></body></html>

@@ -1,0 +1,12 @@
+Отчет
+Success of test cases and its details are : test1
+Success of test cases and its details are : test1
+Success of test cases and its details are : test1
+Success of test cases and its details are : test2
+Success of test cases and its details are : test2
+Success of test cases and its details are : test2
+Success of test cases and its details are : test2
+Success of test cases and its details are : test2
+Success of test cases and its details are : test2
+This is onFinish Passed method9
+This is onFinish Failed method0

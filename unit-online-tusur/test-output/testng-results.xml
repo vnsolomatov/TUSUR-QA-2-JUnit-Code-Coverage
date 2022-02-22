@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="82" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+      <class name="online_tusur.unit_online_tusur.NewTestNG">
+        <test-method status="PASS" signature="testBeforeTest()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeTest" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeTest -->
+        <test-method status="PASS" signature="testBeforeClass()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeClass" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeClass -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test1" duration-ms="8" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test1" duration-ms="5" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test1" duration-ms="6" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="2" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="5" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="4" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="3" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="3" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="2" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="2" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="test2" duration-ms="2" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterMethod -->
+        <test-method status="PASS" signature="testAfterClass()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterClass" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterClass -->
+        <test-method status="PASS" signature="testAfterTest()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterTest" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterTest -->
+      </class> <!-- online_tusur.unit_online_tusur.NewTestNG -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="28" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+      <class name="online_tusur.unit_online_tusur.TestNGFactoryDataProvider">
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestNGFactoryDataProvider@17d0685f, instance params:[26 27 28 29 30 31 32 33 34 35 36, 31]]" name="testAverAge" duration-ms="4" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestNGFactoryDataProvider@22eeefeb, instance params:[18 19 20 21 22 23 24 25, 21]]" name="testAverAge" duration-ms="4" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestNGFactoryDataProvider@3891771e, instance params:[37 38 39 40 41 42 43 44 45 46 47 48 49, 43]]" name="testAverAge" duration-ms="3" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+      </class> <!-- online_tusur.unit_online_tusur.TestNGFactoryDataProvider -->
+      <class name="online_tusur.unit_online_tusur.NewTestNG">
+        <test-method status="PASS" signature="testBeforeSuite()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testBeforeSuite" is-config="true" duration-ms="3" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBeforeSuite -->
+        <test-method status="PASS" signature="testAfterSuite()[pri:0, instance:online_tusur.unit_online_tusur.NewTestNG@1a1d6a08]" name="testAfterSuite" is-config="true" duration-ms="1" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfterSuite -->
+      </class> <!-- online_tusur.unit_online_tusur.NewTestNG -->
+      <class name="online_tusur.unit_online_tusur.TestFactory">
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestFactory@289d1c02, instance params:[]]" name="testAverAge" duration-ms="3" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestFactory@2a70a3d8, instance params:[]]" name="testAverAge" duration-ms="7" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge()[pri:0, instance:online_tusur.unit_online_tusur.TestFactory@75881071, instance params:[]]" name="testAverAge" duration-ms="8" started-at="2022-02-17T17:13:21 MSK" finished-at="2022-02-17T17:13:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+      </class> <!-- online_tusur.unit_online_tusur.TestFactory -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
